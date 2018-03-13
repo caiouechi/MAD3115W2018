@@ -1,0 +1,7 @@
+SplitView:
+
+https://www.raywenderlich.com/173753/uisplitviewcontroller-tutorial-getting-started-2
+
+Sticker Pack
+
+https://developer.apple.com/videos/play/tutorials/building-sticker-packs/

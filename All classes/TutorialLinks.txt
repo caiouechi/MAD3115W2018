@@ -1,0 +1,12 @@
+WebView Tutorial:
+
+https://medium.com/@felicity.johnson.mail/web-view-tutorial-swift-3-0-4a5f4f6858d3
+
+Documentation (WebKit):
+
+https://developer.apple.com/documentation/webkit/wkwebview
+
+UserDefault Tutorial:
+
+https://swift3tutorials.com/swift-3-user-defaults/
+http://www.thomashanning.com/userdefaults/

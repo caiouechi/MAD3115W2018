@@ -1,0 +1,10 @@
+
+Contacts
+https://www.youtube.com/watch?v=ViyePIKtphQ
+
+Call Kit
+https://www.raywenderlich.com/150015/callkit-tutorial-ios
+https://websitebeaver.com/callkit-swift-tutorial-super-easy
+https://teamtreehouse.com/community/call-to-phone-number-when-touching-label
+https://stackoverflow.com/questions/27259824/calling-a-phone-number-in-swift
+https://www.raywenderlich.com/97936/address-book-tutorial-swift-ios

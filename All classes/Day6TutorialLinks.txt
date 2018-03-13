@@ -1,0 +1,11 @@
+https://makeapppie.com/2016/02/11/how-to-use-property-lists-plist-in-swift/
+
+Activity Indicator
+https://developer.apple.com/documentation/uikit/uiactivityindicatorview
+https://www.ioscreator.com/tutorials/activity-indicator-tutorial-ios8-swift
+
+Segment
+https://www.ioscreator.com/tutorials/segmented-control-tutorial-ios10
+
+Progress View
+http://tutlane.com/tutorial/ios/ios-progress-bar-progress-view

@@ -1,0 +1,13 @@
+Page View Controller:
+
+https://spin.atomicobject.com/2015/12/23/swift-uipageviewcontroller-tutorial/
+
+Camera and ImagePicker:
+
+https://turbofuture.com/cell-phones/Access-Photo-Camera-and-Library-in-Swift
+https://hackernoon.com/swift-access-ios-camera-and-photo-library-dc1dbe0cdd76
+https://developer.apple.com/documentation/avfoundation/avcapturedevice.devicetype
+https://medium.com/@rizwanm/https-medium-com-rizwanm-swift-camera-part-1-c38b8b773b2
+https://medium.com/@rizwanm/swift-camera-part-2-c6de440a9404
+
+
